@@ -1,0 +1,9 @@
+{
+  "name": "ProctoAI",
+  "description": "A modern AI-based online exam proctoring system with real-time student monitoring and advanced behavioral analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
