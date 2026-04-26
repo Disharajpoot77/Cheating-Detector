@@ -165,3 +165,4 @@ const InsightCard = ({ title, score, desc, type = 'normal' }) => (
         <p className="text-[11px] text-gray-500 dark:text-slate-400 leading-relaxed">{desc}</p>
     </div>
 );
+ 
