@@ -38,7 +38,7 @@ export const StudentDashboard = ({ onStartExam }) => {
     }
   ];
 
-  return (
+  return ( 
     <div className="space-y-8 animate-in fade-in duration-500">
       <div>
         <h1 className="text-3xl font-display font-bold text-gray-900 dark:text-white">Welcome back, Student!</h1>
