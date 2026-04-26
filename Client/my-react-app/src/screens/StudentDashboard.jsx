@@ -44,7 +44,7 @@ export const StudentDashboard = ({ onStartExam }) => {
         <h1 className="text-3xl font-display font-bold text-gray-900 dark:text-white">Welcome back, Student!</h1>
         <p className="text-gray-500 dark:text-slate-400 mt-1">Here's your exam schedule and academic overview.</p>
       </div>
-
+ 
       {/* Instructions Panel */}
       <div className="glass p-6 rounded-3xl border-l-4 border-l-brand-600 shadow-xl shadow-brand-500/5">
         <div className="flex items-start gap-4">
