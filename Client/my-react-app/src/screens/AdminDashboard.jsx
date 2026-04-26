@@ -10,7 +10,7 @@ import {
   AlertTriangle
 } from 'lucide-react';
 import { 
-  BarChart, 
+  BarChart,  
   Bar, 
   XAxis, 
   YAxis, 
