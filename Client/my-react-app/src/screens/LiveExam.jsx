@@ -9,7 +9,7 @@ import {
   Eye, 
   Smartphone, 
   Users,
-  ShieldCheck,
+  ShieldCheck, 
   ChevronRight,
   ShieldAlert
 } from 'lucide-react';
