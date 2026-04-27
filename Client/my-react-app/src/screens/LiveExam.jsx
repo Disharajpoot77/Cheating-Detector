@@ -11,7 +11,7 @@ import {
   Users,
   ShieldCheck, 
   ChevronRight,
-  ShieldAlert
+  ShieldAlert 
 } from 'lucide-react';
 import { cn } from '../lib/utils';
 
