@@ -12,7 +12,7 @@ import {
   AlertTriangle
 } from 'lucide-react'; 
 import { cn } from '../lib/utils';
-
+ 
 const mockStudents = [
   { id: '1', name: 'Disha Rajpoot', status: 'normal', alert: null, img: 'https://i.pravatar.cc/150?u=alina' },
   { id: '2', name: 'Muskan', status: 'suspicious', alert: 'Looking Away', img: 'https://i.pravatar.cc/150?u=rob' },
