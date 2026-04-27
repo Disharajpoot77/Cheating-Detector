@@ -126,7 +126,7 @@ export const Login = ({ onLogin }) => {
 
           <footer className="pt-10 flex items-center justify-center gap-2 text-xs font-bold text-gray-400 uppercase tracking-widest border-t border-gray-100 dark:border-slate-800">
              <ShieldCheck className="w-4 h-4" /> Secure Auth Protocol Active
-          </footer>
+          </footer> 
         </motion.div>
       </div>
     </div>
