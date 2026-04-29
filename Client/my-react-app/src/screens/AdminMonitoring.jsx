@@ -10,7 +10,7 @@ import {
   Camera,
   Activity,
   AlertTriangle
-} from 'lucide-react'; 
+} from 'lucide-react';  
 import { cn } from '../lib/utils';
  
 const mockStudents = [
