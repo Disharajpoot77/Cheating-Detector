@@ -5,7 +5,7 @@ import {
   ShieldAlert, 
   TrendingUp, 
   ArrowUpRight,
-  UserCheck,
+  UserCheck, 
   UserX,
   AlertTriangle
 } from 'lucide-react';
